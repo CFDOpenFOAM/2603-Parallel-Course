@@ -1,19 +1,28 @@
 ---
 layout: home
 title: Home
-nav_order: 1
+nav_order: 2
 ---
 
-# CS168: Introduction to the Internet
+# 2603 Introduction to Parallel Computing
 
-欢迎来到 2026 春季课程。
+欢迎来到 2603 并行计算课程。
 
 ## Class Schedule
 
-| Week | Date   | Topic            | Materials                   | Assignment    |
-| :--- | :----- | :--------------- | :-------------------------- | :------------ |
-| 1    | Jan 20 | **Introduction** | [Slides](./slides/lec1.pdf) |               |
-| 1    | Jan 22 | **Architecture** | [Notes](./docs/arch.md)     | Project 1 Out |
-| 2    | Jan 27 | **Routing**      | [Slides](./slides/lec2.pdf) |               |
+| Week | Date     | Topic            | Materials                   | Assignment |
+| :--- | :------- | :--------------- | :-------------------------- | :--------- |
+| 1    | March 01 | **Introduction** | [Slides](./slides/lec1.pdf) |            |
+| 2    |          |                  | [Notes](./docs/arch.md)     | Project 1  |
+| 3    |          |                  |                             |            |
+| 4    |          |                  |                             |            |
+| 5    |          |                  |                             |            |
+| 6    |          |                  |                             |            |
+| 7    |          |                  |                             |            |
+| 8    |          |                  |                             |            |
+| 9    |          |                  |                             |            |
+| 10   |          |                  |                             |            |
+| 11   |          |                  |                             |            |
+| 12   |          |                  |                             |            |
 
 [View full syllabus](./docs/syllabus.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
